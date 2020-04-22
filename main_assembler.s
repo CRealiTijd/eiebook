@@ -5,6 +5,7 @@
 ;------------------------------------------------------------------------------
 ; Description
 ; This is a demonstration program to show basic code structures in assembly
+; A test comment van Ad
 
 
 ; Includes
